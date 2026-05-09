@@ -1,0 +1,3 @@
+case,S_ecc_norm,S_ecc_angle,total,S_aspect,S_phi
+circular_rd07,0.9956,0.0017,0.9972,,
+elliptical_rd07,0.7120,0.0030,0.7912,0.0748,0.0014

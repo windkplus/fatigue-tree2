@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "fatigue-tree2: Probabilistic Eccentric Decay Geometry Monte Carlo for Wind-Fatigue of Urban Street Trees"
+message: "If you use this software or data, please cite the accompanying paper and this archive."
+type: software
+authors:
+  - family-names: "Kang"
+    given-names: "Junsuk"
+    affiliation: "Seoul National University"
+    email: "junkang@snu.ac.kr"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # replace with your ORCID
+repository-code: "https://github.com/windkplus/fatigue-tree2"
+url: "https://github.com/windkplus/fatigue-tree2"
+abstract: >-
+  Closed-form eccentric / elliptical cavity stress-amplification framework
+  with Monte Carlo confidence intervals on wind-induced fatigue life of
+  urban street trees, validated against ABAQUS Standard 2026. Companion
+  to the deterministic concentric-decay framework of Kang (2026), Trees -
+  Structure and Function (Paper I).
+keywords:
+  - wind-fatigue
+  - eccentric decay
+  - Monte Carlo
+  - urban street trees
+  - probabilistic risk assessment
+  - sonic tomography
+  - ABAQUS validation
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-09"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Kang"
+      given-names: "Junsuk"
+      affiliation: "Seoul National University"
+      email: "junkang@snu.ac.kr"
+  title: "Probabilistic Eccentric Decay Geometry: Monte Carlo Confidence Intervals on the Wind-Fatigue Life of Urban Street Trees"
+  journal: "Trees - Structure and Function"
+  year: 2026
+  doi: ""  # add upon publication

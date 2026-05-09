@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Temporary build artefacts
+_tmp_*.md
+_tmp_*.docx
+
+# ABAQUS run-time outputs (regenerable from .inp)
+*.odb
+*.lck
+*.mdl
+*.prt
+*.res
+*.sel
+*.sim
+*.stt
+*.com
+*.dat
+*.msg
+*.sta
+*.fil
+*.abq
+*.pac
+*.ipm
+*.log
+
+# Large simulation outputs (kept in releases / Zenodo, not git history)
+# Comment these lines if you want them in the repo
+# data/generated/*.gz
+# data/generated/*.csv

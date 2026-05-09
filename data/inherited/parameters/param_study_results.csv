@@ -1,0 +1,81 @@
+study,variable,value,unit,fatigue_life_yr
+1D sensitivity,DBH,10.0000,cm,3.33
+1D sensitivity,DBH,11.5789,cm,9059.61
+1D sensitivity,DBH,13.1579,cm,610527.77
+1D sensitivity,DBH,14.7368,cm,4040491.06
+1D sensitivity,DBH,16.3158,cm,7916287.67
+1D sensitivity,DBH,17.8947,cm,10340534.39
+1D sensitivity,DBH,19.4737,cm,11820576.45
+1D sensitivity,DBH,21.0526,cm,12789221.46
+1D sensitivity,DBH,22.6316,cm,13461382.81
+1D sensitivity,DBH,24.2105,cm,13948047.06
+1D sensitivity,DBH,25.7895,cm,14311702.28
+1D sensitivity,DBH,27.3684,cm,14590181.38
+1D sensitivity,DBH,28.9474,cm,14807696.69
+1D sensitivity,DBH,30.5263,cm,14980416.85
+1D sensitivity,DBH,32.1053,cm,15119506.49
+1D sensitivity,DBH,33.6842,cm,15232886.70
+1D sensitivity,DBH,35.2632,cm,15326305.39
+1D sensitivity,DBH,36.8421,cm,15404014.10
+1D sensitivity,DBH,38.4211,cm,15469210.04
+1D sensitivity,DBH,40.0000,cm,15524332.71
+1D sensitivity,수고 H,4.0000,m,15404915.18
+1D sensitivity,수고 H,4.4211,m,15260252.59
+1D sensitivity,수고 H,4.8421,m,15069470.78
+1D sensitivity,수고 H,5.2632,m,14852410.22
+1D sensitivity,수고 H,5.6842,m,14586953.98
+1D sensitivity,수고 H,6.1053,m,14298327.99
+1D sensitivity,수고 H,6.5263,m,13943771.36
+1D sensitivity,수고 H,6.9474,m,13528818.94
+1D sensitivity,수고 H,7.3684,m,13055690.43
+1D sensitivity,수고 H,7.7895,m,12498506.31
+1D sensitivity,수고 H,8.2105,m,11849335.60
+1D sensitivity,수고 H,8.6316,m,11095180.20
+1D sensitivity,수고 H,9.0526,m,10195460.77
+1D sensitivity,수고 H,9.4737,m,9083322.01
+1D sensitivity,수고 H,9.8947,m,7806201.52
+1D sensitivity,수고 H,10.3158,m,6325136.21
+1D sensitivity,수고 H,10.7368,m,4708827.93
+1D sensitivity,수고 H,11.1579,m,3123889.84
+1D sensitivity,수고 H,11.5789,m,1800278.28
+1D sensitivity,수고 H,12.0000,m,892055.47
+1D sensitivity,설계풍속 U_bar,15.0000,m/s,14140294.80
+1D sensitivity,설계풍속 U_bar,16.3158,m/s,13704724.09
+1D sensitivity,설계풍속 U_bar,17.6316,m/s,13224432.23
+1D sensitivity,설계풍속 U_bar,18.9474,m/s,12688671.31
+1D sensitivity,설계풍속 U_bar,20.2632,m/s,12056596.62
+1D sensitivity,설계풍속 U_bar,21.5789,m/s,11355043.15
+1D sensitivity,설계풍속 U_bar,22.8947,m/s,10567068.72
+1D sensitivity,설계풍속 U_bar,24.2105,m/s,9665989.06
+1D sensitivity,설계풍속 U_bar,25.5263,m/s,8689005.65
+1D sensitivity,설계풍속 U_bar,26.8421,m/s,7624638.99
+1D sensitivity,설계풍속 U_bar,28.1579,m/s,6492115.44
+1D sensitivity,설계풍속 U_bar,29.4737,m/s,5326623.57
+1D sensitivity,설계풍속 U_bar,30.7895,m/s,4177479.66
+1D sensitivity,설계풍속 U_bar,32.1053,m/s,3114016.96
+1D sensitivity,설계풍속 U_bar,33.4211,m/s,2195872.83
+1D sensitivity,설계풍속 U_bar,34.7368,m/s,1462340.35
+1D sensitivity,설계풍속 U_bar,36.0526,m/s,920444.76
+1D sensitivity,설계풍속 U_bar,37.3684,m/s,549529.32
+1D sensitivity,설계풍속 U_bar,38.6842,m/s,312562.57
+1D sensitivity,설계풍속 U_bar,40.0000,m/s,170197.11
+1D sensitivity,난류강도 I_u,0.1000,-,14191517.48
+1D sensitivity,난류강도 I_u,0.1105,-,13994738.06
+1D sensitivity,난류강도 I_u,0.1211,-,13795111.67
+1D sensitivity,난류강도 I_u,0.1316,-,13592452.06
+1D sensitivity,난류강도 I_u,0.1421,-,13386561.71
+1D sensitivity,난류강도 I_u,0.1526,-,13177231.91
+1D sensitivity,난류강도 I_u,0.1632,-,12964243.06
+1D sensitivity,난류강도 I_u,0.1737,-,12747365.15
+1D sensitivity,난류강도 I_u,0.1842,-,12526358.51
+1D sensitivity,난류강도 I_u,0.1947,-,12300975.01
+1D sensitivity,난류강도 I_u,0.2053,-,12070959.57
+1D sensitivity,난류강도 I_u,0.2158,-,11836052.18
+1D sensitivity,난류강도 I_u,0.2263,-,11595990.59
+1D sensitivity,난류강도 I_u,0.2368,-,11350513.62
+1D sensitivity,난류강도 I_u,0.2474,-,11099365.22
+1D sensitivity,난류강도 I_u,0.2579,-,10842299.50
+1D sensitivity,난류강도 I_u,0.2684,-,10579086.70
+1D sensitivity,난류강도 I_u,0.2789,-,10309299.09
+1D sensitivity,난류강도 I_u,0.2895,-,10032038.96
+1D sensitivity,난류강도 I_u,0.3000,-,9746830.85

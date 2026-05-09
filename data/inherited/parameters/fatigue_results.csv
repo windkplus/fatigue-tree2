@@ -1,0 +1,9 @@
+model,species,MOR_MPa,D_10min,D_annual,fatigue_life_yr
+Davenport,은행나무 (Ginkgo biloba),68.0,1.3515e-10,0.000000,12331669.75
+Davenport,벚나무 (Prunus serrulata),88.0,3.1718e-12,0.000000,525471943.55
+Davenport,플라타너스 (Platanus x acerifolia),72.0,5.5031e-11,0.000000,30285765.49
+Davenport,느티나무 (Zelkova serrata),95.0,1.7594e-13,0.000000,9472965635.57
+Kaimal,은행나무 (Ginkgo biloba),68.0,1.5740e-10,0.000000,10588455.69
+Kaimal,벚나무 (Prunus serrulata),88.0,3.5932e-12,0.000000,463834294.12
+Kaimal,플라타너스 (Platanus x acerifolia),72.0,6.3723e-11,0.000000,26154711.22
+Kaimal,느티나무 (Zelkova serrata),95.0,1.9943e-13,0.000000,8357264167.38
