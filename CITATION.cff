@@ -7,7 +7,6 @@ authors:
     given-names: "Junsuk"
     affiliation: "Seoul National University"
     email: "junkang@snu.ac.kr"
-    orcid: "https://orcid.org/0000-0000-0000-0000"  # replace with your ORCID
 repository-code: "https://github.com/windkplus/fatigue-tree2"
 url: "https://github.com/windkplus/fatigue-tree2"
 abstract: >-
@@ -37,4 +36,3 @@ preferred-citation:
   title: "Probabilistic Eccentric Decay Geometry: Monte Carlo Confidence Intervals on the Wind-Fatigue Life of Urban Street Trees"
   journal: "Trees - Structure and Function"
   year: 2026
-  doi: ""  # add upon publication
