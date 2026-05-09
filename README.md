@@ -2,6 +2,7 @@
 
 > Probabilistic Eccentric Decay Geometry — Monte Carlo Confidence Intervals on the Wind-Fatigue Life of Urban Street Trees
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20097384.svg)](https://doi.org/10.5281/zenodo.20097384)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
@@ -109,12 +110,14 @@ If you use this software or data, please cite both the paper and the archive:
   author       = {Kang, Junsuk},
   title        = {fatigue-tree2: Probabilistic eccentric-decay Monte Carlo for wind-fatigue of urban street trees},
   year         = 2026,
+  version      = {v1.0.0},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.20097384},
+  url          = {https://doi.org/10.5281/zenodo.20097384}
 }
 ```
 
-(Replace the Zenodo DOI when the GitHub release is archived.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20097384.svg)](https://doi.org/10.5281/zenodo.20097384)
 
 ## Companion paper repository
 

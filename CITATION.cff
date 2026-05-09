@@ -2,6 +2,10 @@ cff-version: 1.2.0
 title: "fatigue-tree2: Probabilistic Eccentric Decay Geometry Monte Carlo for Wind-Fatigue of Urban Street Trees"
 message: "If you use this software or data, please cite the accompanying paper and this archive."
 type: software
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20097384
+    description: "Zenodo archive of v1.0.0 (initial release)"
 authors:
   - family-names: "Kang"
     given-names: "Junsuk"
