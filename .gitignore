@@ -50,3 +50,8 @@ _tmp_*.docx
 # Comment these lines if you want them in the repo
 # data/generated/*.gz
 # data/generated/*.csv
+output/paper/ 
+build_paper2_docx.py 
+build_cover_letter.py 
+docs/paper_draft_Springer.md 
+docs/paper_draft_Elsevier.md 
