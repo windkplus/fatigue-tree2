@@ -28,11 +28,7 @@ fatigue-tree2/
 │   └── generated/          # Monte Carlo outputs (CSV.gz)
 ├── output/
 │   ├── figures/            # publication PNGs (Figs 1–11, A1)
-│   ├── tables/             # CSV summaries (mc_baseline_summary, …)
-│   └── paper/              # paper2_draft_v2.md, paper2_Trees.docx, cover letter
-├── docs/                   # research plan, future-work list, Paper I freezes
-├── build_paper2_docx.py    # Trees DOCX builder
-├── build_cover_letter.py   # cover letter builder
+│   └── tables/             # CSV summaries (mc_baseline_summary, …)
 ├── CITATION.cff
 ├── LICENSE
 ├── requirements.txt
